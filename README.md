@@ -1,5 +1,5 @@
 # rabbit-emporium
-Practice refresher on Flexbox
+Flexbox refresher
 
 Just a little refresher on Flexbox and practice for FCC's design track
 
